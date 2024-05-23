@@ -11,12 +11,12 @@ const config: Config = {
   url: "https://your-docusaurus-site.example.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
-
+  baseUrl: "/infi-book-club/",
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "Infi", // Usually your GitHub org/user name.
-  projectName: "Infi book club", // Usually your repo name.
+  organizationName: "ThomasAInfi", // Usually your GitHub org/user name.
+  projectName: "infi-book-club", // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
