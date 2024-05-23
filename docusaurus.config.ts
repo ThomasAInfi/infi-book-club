@@ -72,7 +72,7 @@ const config: Config = {
     footer: {
       style: "dark",
       links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Infi. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
