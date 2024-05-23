@@ -4,7 +4,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   title: "Infi Book Club",
-  tagline: "Read the things!",
+  tagline: "Wij lezen de dingen!",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -37,8 +37,7 @@ const config: Config = {
           sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/ThomasAInfi/infi-book-club/tree/main/",
         },
         blog: false,
         theme: {
